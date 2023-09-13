@@ -1,9 +1,10 @@
 body {
   margin: 0px;
+  background-image: url(https://hawthornetheatre.com/wp-content/uploads/2023/07/VEEZE1689180603_2781441689180603.jpeg");
 }
 
 canvas {
-  background-color: lightgray;
+  background-color: none;
 }
 
 img {
